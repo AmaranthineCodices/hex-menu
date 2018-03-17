@@ -1,0 +1,9 @@
+[submodule "lib/Hex"]
+	path = lib/Hex
+	url = https://github.com/AmaranthineCodices/hex-coordinates
+[submodule "lib/RoactAnimate"]
+	path = lib/RoactAnimate
+	url = https://github.com/AmaranthineCodices/Roact-Animate
+[submodule "lib/Roact"]
+	path = lib/Roact
+	url = https://github.com/Roblox/Roact
