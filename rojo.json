@@ -1,0 +1,26 @@
+{
+    "name": "hex-menu",
+    "servePort": 8000,
+    "partitions": {
+        "menu": {
+            "path": "./src/Menu",
+            "target": "ReplicatedStorage.Menu"
+        },
+        "entry": {
+            "path": "./src/Main",
+            "target": "StarterPlayer.StarterPlayerScripts"
+        },
+        "Hex": {
+            "path": "./lib/Hex/src",
+            "target": "ReplicatedStorage.Hex"
+        },
+        "Roact": {
+            "path": "./lib/Roact/lib",
+            "target": "ReplicatedStorage.Roact"
+        },
+        "RoactAnimate": {
+            "path": "./lib/RoactAnimate/src",
+            "target": "ReplicatedStorage.RoactAnimate"
+        }
+    }
+}
