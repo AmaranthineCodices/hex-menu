@@ -7,8 +7,8 @@
             "target": "ReplicatedStorage.Menu"
         },
         "entry": {
-            "path": "./src/Main",
-            "target": "StarterPlayer.StarterPlayerScripts"
+            "path": "./src/Entry",
+            "target": "StarterPlayer.StarterPlayerScripts.NecessaryFolder"
         },
         "Hex": {
             "path": "./lib/Hex/src",
